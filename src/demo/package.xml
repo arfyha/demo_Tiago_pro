@@ -10,6 +10,7 @@
   <depend>rclpy</depend>
   <depend>hri_msgs/msg</depend>
   <depend>tts_msgs/action</depend>
+  <depend>play_motion2_msgs/action</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
