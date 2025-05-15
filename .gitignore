@@ -1,0 +1,8 @@
+build/
+install/
+log/
+.vscode/
+*.pyc
+.DS_Store
+build_pal_deploy_release/
+install_pal_deploy_release/
